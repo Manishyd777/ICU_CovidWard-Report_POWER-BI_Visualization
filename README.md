@@ -22,7 +22,9 @@ A general Assessment of data between a **two most peaked weeks of Pandemic month
 9-How Oxygen level indicates need of support system.
 
 
-By the use of interactive dashboard management can take further decision and get prepared for better facility to patients.
+By the use of interactive dashboard management can take further decision and get prepared for Sudden Outbreaks.\
+
+
 
 
 
