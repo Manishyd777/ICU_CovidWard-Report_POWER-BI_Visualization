@@ -19,7 +19,7 @@ A general Assessment of data between a two most peaked weeks of Pandemic months.
 
 8- Stage wise division of treatment.
 
-9- At what oxygen level patient need support system.
+9-How Oxygen level indicates need of support system.
 
 
 By the use of interactive dashboard management can take further decision and get prepared for better facility to patients.
