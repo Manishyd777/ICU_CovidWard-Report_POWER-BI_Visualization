@@ -1,7 +1,7 @@
 # ICU_CovidWard-Report_Visualization
 A general Assessment of data between a two most peaked weeks of Pandemic months. With Interactive Dashboard and Real Data taken from GB-Panth Hospital Delhi. All Extracted data were in hardcopy and copied in excel manually with calculations and some assumptions.
 
-**Hospital Management need key point to prepare for covid next wave if it repeats. What analysis BI reports shows-**
+**Hospital Management need KPI to prepare for covid next wave if it repeats. This is what analysis BI reports shows-**
 
 1- Total number of Patients admitted everyday from first to last day of report.
 
